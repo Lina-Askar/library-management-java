@@ -27,4 +27,4 @@ A console-based library management system developed in Java to manage book borro
 3. Run the main class (`Library.java`) from the console
 
 ## UML/Class Diagram
-![Class Diagram](diagram.png)
+![Class Diagram](diagram.jpeg)
